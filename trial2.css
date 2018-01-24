@@ -1,16 +1,44 @@
-ul {
-	list-style: none
-	color: red;
-	margin-bottom: 10px;
-	font-size: 30;
+h1 {
+	background-color: green;
+	font-family: sans-serif;
+	font-size: 120px;
+	margin-top: 50px
+	color: blue;
+	text-shadow: 10px 20px 40px red;
+	font-variant: 10px 40px 60px blue;
+	word-spacing: 10px;
+	letter-spacing: 10px;
+	font-family: 'Risque', cursive;
 }
 form {
-	margin-bottom: 20px;
+	margin-bottom: 50px;
 }
 textarea {
-	width: 30px;
-	height: 30px;
+	width: 500px;
+	height: 500px;
 }
 label {
 	display: block;
 }
+img {
+	width: 500px;
+	height: 500px;
+	margin-right: 120px; 
+	background-color: red; 
+}
+li{
+	list-style: none;
+	color: green;
+	margin-bottom: 30px;
+	font-size: 	30px;
+}
+a:hover {
+	text-decoration: none;
+	word-spacing: 30px;
+	color: brown;
+}
+ li {
+	display:inline; 
+	padding: 30px;
+}
+
